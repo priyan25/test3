@@ -1,7 +1,9 @@
 
 public class test {
-	public void show() {
-		
+	
+public void show() {
+			
 		System.out.println("hello");
 	}
+
 }
